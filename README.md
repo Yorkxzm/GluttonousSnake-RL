@@ -3,3 +3,5 @@
 贪吃蛇环境基于gym和pygame，实现参考了：
 https://www.cnblogs.com/dengfaheng/p/9241267.html
 与https://github.com/ZYunfeii/DRL4SnakeGame
+
+本文共实现了两种强化学习算法。PPO（在线学习）与SAC(离线学习）
