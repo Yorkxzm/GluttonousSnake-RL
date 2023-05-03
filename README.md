@@ -14,7 +14,7 @@ https://www.cnblogs.com/dengfaheng/p/9241267.html<br>
 2.蛇头上下左右是否有边界（4维）
 
 最终训练结果：(见train.ipynb)<br>
-PPO在1000次迭代后就可以达到收敛，但是可能会出现若干过拟合阶段（在某些episode中reward骤降）。
+PPO在1000次迭代后就可以达到收敛，但是可能会出现若干过拟合阶段（在某些episode中reward骤降）。<br>
 SAC达到较好回报的速度更慢一些。但曲线整体走势稳定。
 
 测试：
