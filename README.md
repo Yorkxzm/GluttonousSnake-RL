@@ -13,6 +13,8 @@ https://www.cnblogs.com/dengfaheng/p/9241267.html<br>
 1.蛇头与食物的相对x与y坐标（2维）
 2.蛇头上下左右是否有边界（4维）
 
-最终训练结果：PPO在1000次迭代后就可以达到收敛，但是可能会出现若干过拟合阶段。
-回报曲线如下图：<br>
-![PPOtraincurves](ppo.png) {:height="36px" width="36px"}.
+最终训练结果：(见train.ipynb)<br>
+PPO在1000次迭代后就可以达到收敛，但是可能会出现若干过拟合阶段（在某些episode中reward骤降）。
+SAC达到较好回报的速度更慢一些。但曲线整体走势稳定。
+
+测试：
