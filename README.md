@@ -14,4 +14,4 @@ https://www.cnblogs.com/dengfaheng/p/9241267.html<br>
 2.蛇头上下左右是否有边界（4维）
 
 最终训练结果：PPO在1000次迭代后就可以达到收敛，但是可能会出现若干过拟合阶段。
-回报曲线如下图：![PPOtraincurves](/ppo.png)
+回报曲线如下图：![PPOtraincurves](/ppo.png)#pic_center=200x
