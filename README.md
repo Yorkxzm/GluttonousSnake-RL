@@ -1,6 +1,6 @@
 # GluttonousSnake-RL
 这是一个使用强化学习玩贪吃蛇的项目。
-贪吃蛇环境基于gym和pygame，实现参考了：
+贪吃蛇环境基于pygame，实现参考了：
 https://www.cnblogs.com/dengfaheng/p/9241267.html<br>
 该环境允许游戏设置为变速模式：<br>
 当设置 <code>speedchange=True</code>时
